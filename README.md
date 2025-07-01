@@ -567,6 +567,3 @@ This cryptocurrency exchange backend demonstrates a commitment to:
 The system is designed to handle high-frequency trading while maintaining data integrity and providing a robust foundation for future scaling and feature development.
 
 ---
-
-**Built with ❤️ using NestJS, TypeScript, and PostgreSQL**
-
